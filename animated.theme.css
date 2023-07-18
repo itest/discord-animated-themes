@@ -1,0 +1,53 @@
+/**
+ * @name animated
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+
+:root {
+  --background-image: url('https://i.pinimg.com/originals/23/bd/01/23bd0157d8aaa3885bdd4273e8a91178.gif');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://i.pinimg.com/originals/23/bd/01/23bd0157d8aaa3885bdd4273e8a91178.gif');
+  --popout-image-blur: 15px;
+  --popout-image-size: 150%;
+  --popout-image-position: top right;
+  --overlay-image: var(--background-image);
+  --overlay-image-blur: 0px;
+  --overlay-image-size: 150%;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.pinimg.com/originals/23/bd/01/23bd0157d8aaa3885bdd4273e8a91178.gif');
+  --home-button-size: 200%;
+  --home-button-position: center right;
+  --serverlist-brightness: 0.84;
+  --left-brightness: 0.68;
+  --middle-brightness: 0.3;
+  --right-brightness: 0.62;
+  --overlay-brightness: 0.74;
+  --gradient-primary: 55,31,96;
+  --gradient-secondary: 132,88,144;
+  --link-colour: #4EFF47;
+  --scrollbar-colour: rgb(156,39,176,0);
+  --gradient-direction: 40deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: Dancing Script;
+  --window-padding: 6px;
+  --window-roundness: 6px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
