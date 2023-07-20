@@ -16,11 +16,11 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://giphy.com/gifs/vintage-train-subway-ghPfNK0PIAeY0');
+  --background-image: url('https://i.giphy.com/media/ghPfNK0PIAeY0/giphy.webp');
   --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center;
-  --popout-image: url('https://giphy.com/gifs/vintage-train-subway-ghPfNK0PIAeY0');
+  --popout-image: url('https://i.giphy.com/media/ghPfNK0PIAeY0/giphy.webp');
   --popout-image-blur: 15px;
   --popout-image-size: 150%;
   --popout-image-position: top right;
@@ -42,7 +42,7 @@
   --scrollbar-colour: rgb(156,39,176,0);
   --gradient-direction: 40deg;
   --tint-colour: white;
-  --tint-brightness: 7;
+  --tint-brightness: 0;
   --font: Montserrat;
   --window-padding: 0px;
   --window-roundness: 0px;
