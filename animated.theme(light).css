@@ -11,7 +11,7 @@
  * @BDEditor Frosted Glass
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&display=swap');
 @import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
@@ -43,7 +43,7 @@
   --gradient-direction: 40deg;
   --tint-colour: 255,51,159;
   --tint-brightness: 0;
-  --font: Dancing Script;
+  --font: Montserrat;
   --window-padding: 0px;
   --window-roundness: 0px;
   --update-notice-1: none;
